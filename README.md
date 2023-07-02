@@ -1,4 +1,4 @@
-As a part of internship at Oasis Infobyte i completed 3 tasks successsfully as a Data Science intern
+As a part of internship at Oasis Infobyte i completed 3 tasks successsfully as a Data Science internn
 
 TASK 1 - Iris Flower Classification
 
